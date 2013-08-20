@@ -1,0 +1,16 @@
+verbose = true
+quiet = false
+gmethod = HEAD
+show-logfile = true
+logging = true
+protocol = HTTP/1.1
+chunked = true
+cache = false
+connection = close
+concurrent = 15
+delay = 1
+internet = false
+benchmark = false
+accept-encoding = gzip
+spinner = false
+unique = true
